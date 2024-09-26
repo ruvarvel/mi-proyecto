@@ -3,5 +3,4 @@ function saludo(){
     echo "Hola, saludos!";
 }
 
-saludo();
 ?>

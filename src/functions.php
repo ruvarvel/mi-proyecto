@@ -6,4 +6,5 @@ function mensajepersonalizado(){
     echo "Hola mensaje personalizado";
 }
 mensajepersonalizado();
+//Creando conflicto en rama funcionalidad-1
 ?>

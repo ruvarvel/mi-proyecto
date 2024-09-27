@@ -11,4 +11,6 @@ mensajepersonalizado();
 
 //creando conflicto en la rama main y funcionalidad-1
 
+//añadiendo una linea desde funcionalidad-2
+
 ?>
